@@ -115,3 +115,21 @@ from mlxtend.frequent_patterns import apriori, association_rules
 ![Support Distribution Plot](Images/support_Dist_Value.png)
 
 ---
+
+## Technologies Used
+
+- Python
+- Pandas
+- mlxtend
+- matplotlib
+- Google Collab
+
+---
+
+## Author
+
+**Vaibhav Singh**
+B.Tech — Data Warehousing & Data Mining Project
+2025
+
+---
