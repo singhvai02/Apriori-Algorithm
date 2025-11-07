@@ -71,7 +71,8 @@ Identify patterns in ride-sharing trip data to understand:
 Use the link below to open the project notebook:
 
 **Google Colab Notebook:** https://drive.google.com/file/d/1JYix38cDVVd_NJZnp7sz8NWLYsogLSGi/view?usp=sharing
---
+
+---
 
 ### Install Dependencies
 ```python
