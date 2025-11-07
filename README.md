@@ -96,7 +96,6 @@ from mlxtend.frequent_patterns import apriori, association_rules
    - Strong lift values showing non-random relationships
 
 ## Some Results
-   **Images**
    - Top 10 Frequent Items
       ![Frequent Itemsets](Images/Top_10.png)
    - Confidence V/S Lift
@@ -104,4 +103,4 @@ from mlxtend.frequent_patterns import apriori, association_rules
    - Bubble Plot
       ![Bubble Plot](Images/Bubble_Plot.png)
    - Distribution Plot
-      ![Support Distribution Plot](support_Dist_Value.png)
+      ![Support Distribution Plot](Images/support_Dist_Value.png)
