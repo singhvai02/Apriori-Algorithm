@@ -69,10 +69,10 @@ Identify patterns in ride-sharing trip data to understand:
 
 Use the link below to open the project notebook:
 
-👉 **Google Colab Notebook:** https://drive.google.com/file/d/1JYix38cDVVd_NJZnp7sz8NWLYsogLSGi/view?usp=sharing
+**Google Colab Notebook:** https://drive.google.com/file/d/1JYix38cDVVd_NJZnp7sz8NWLYsogLSGi/view?usp=sharing
 --
 
-### ✅ Install Dependencies
+### Install Dependencies
 ```python
 !pip install mlxtend
 ```
@@ -95,3 +95,9 @@ from mlxtend.frequent_patterns import apriori, association_rules
    - Which factors correlate with high fares
    - Strong lift values showing non-random relationships
 
+## Some Results
+
+1. ![Frequent Itemsets](Images/Top_10.png)
+2. ![Confidence V/S Lift](Images/ConfidenceVSLift.png)
+3. ![Bubble Plot](Images/Bubble_Plot.png)
+4. ![Support Distribution Plot](support_Dist_Value.png)
