@@ -19,7 +19,7 @@ The dataset includes **8,000 rows** of ride trip information with the following 
 | high_fare          | Flag indicating if fare was high (0/1) |
 
 
-### **Dataset Link**
+## **Dataset Link**
 
 **Dataset:** https://drive.google.com/file/d/1JYix38cDVVd_NJZnp7sz8NWLYsogLSGi/view?usp=sharing
 ---
@@ -82,7 +82,7 @@ Use the link below to open the project notebook:
 from mlxtend.frequent_patterns import apriori, association_rules
 ```
 
-### Key Results
+## Key Results
 
 1. **Frequent itemsets reveal strong relationships between:**
    - Weather and time of day
@@ -102,7 +102,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 
 ---
 
- ### Confidence V/S Lift
+### Confidence V/S Lift
 ![Confidence V/S Lift](Images/ConfidenceVSLift.png)
 
 ---
