@@ -97,10 +97,10 @@ from mlxtend.frequent_patterns import apriori, association_rules
 
 ## Some Results
    - Top 10 Frequent Items
-      ![Frequent Itemsets](Images/Top_10.png)
+     ![Frequent Itemsets](Images/Top_10.png)
    - Confidence V/S Lift
-      ![Confidence V/S Lift](Images/ConfidenceVSLift.png)
+     ![Confidence V/S Lift](Images/ConfidenceVSLift.png)
    - Bubble Plot
-      ![Bubble Plot](Images/Bubble_Plot.png)
+     ![Bubble Plot](Images/Bubble_Plot.png)
    - Distribution Plot
-      ![Support Distribution Plot](Images/support_Dist_Value.png)
+     ![Support Distribution Plot](Images/support_Dist_Value.png)
